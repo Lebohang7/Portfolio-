@@ -1,5 +1,9 @@
 # Portfolio-
-# 👩🏽‍💻 Lebohang Mosimane
+# 👋 Hi, I'm Lebohang
+
+🎓 ICT Student at CPUT
+💻 Aspiring UX Designer| front-end developer
+🎨 Creative Developer
 
 📍 143 Sir lowry road, woodstock 
    Cape Town, South Africa  
@@ -56,51 +60,6 @@ Cape Peninsula University of Technology (CPUT)
 ##  Career Objective
 To grow as a **UX Designer and Front-End Developer**, contributing to innovative digital solutions while continuously improving my skills in design, development, and user experience.
 
-# 👋 Hi, I'm Lebohang
 
-🎓 ICT Student at CPUT
-💻 Aspiring UX Designer
-🎨 Creative Developer
-
----
-
-## 🧠 Skills
-
-* HTML, CSS, JavaScript
-* PHP & MySQL
-* UI/UX Design
-* Branding & Visual Identity
-
----
-
-## 📂 My Projects
-
-### 🚀 Smart To-Do List Application
-
-A task management web app with interactive features and task prioritization.
-
-🔗 [View Project](https://github.com/YOUR-USERNAME/smart-todo-list)
-
----
-
-### 🎙️ Voices of Khayelitsha (Podcast)
-
-A podcast project highlighting real community stories about crime and social issues.
-
-🔗 [View Project](https://github.com/YOUR-USERNAME/voices-of-khayelitsha)
-
----
-
-### 🎨 Creative Current (Brand Identity)
-
-A complete brand identity project including logo design, typography, and visual systems.
-
-🔗 [View Project](https://github.com/YOUR-USERNAME/creative-current)
-
----
-
-## 📫 Contact
-
-* Email: [your@email.com](mailto:your@email.com)
 
 
