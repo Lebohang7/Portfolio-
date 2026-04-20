@@ -1,5 +1,5 @@
 # Portfolio-
-# 👋 Hi, I'm Lebohang
+# 👋 Hi, I'm Lebohang Mosimane
 
 🎓 ICT Student at CPUT
 💻 Aspiring UX Designer| front-end developer
@@ -42,7 +42,7 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-###  Creative Current (Brand Identity Project)
+###  Massive dynamics (Brand Identity Project)
 - Designed a complete brand identity including logo and guidelines  
 - Developed visual systems (typography, color palette)  
 - Applied design thinking and branding strategies  
@@ -60,6 +60,10 @@ Cape Peninsula University of Technology (CPUT)
 ##  Career Objective
 To grow as a **UX Designer and Front-End Developer**, contributing to innovative digital solutions while continuously improving my skills in design, development, and user experience.
 
+## 🎥 Mock Interview Video
+
+[Watch my mock interview video](https://drive.google.com/uc?export=download&id=1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG)
+---
 
 
 
