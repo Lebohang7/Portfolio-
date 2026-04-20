@@ -77,7 +77,7 @@ My task was to convert a traditional CV into a well-structured digital format us
 
 # Action
 
-To complete this task, I researched how Markdown works and learned how to use headings, bullet points, and formatting techniques to organise my content. I carefully structured my CV into sections such as personal information, skills, and education. I ensured consistency in formatting and focused on readability so that anyone viewing the CV could easily understand my qualifications and abilities.
+To complete this task, I researched how Markdown works and learned how to use headings, bullet points, and formatting techniques to organise my content.And i also made use of the student guide as it showcases how tackle the markdown. I carefully structured my CV into sections such as personal information, skills, and education. I ensured consistency in formatting and focused on readability so that anyone viewing the CV could easily understand my qualifications and abilities.
 
 # Result
 
