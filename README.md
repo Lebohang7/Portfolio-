@@ -62,7 +62,8 @@ To grow as a **UX Designer and Front-End Developer**, contributing to innovative
 
 ## 🎥 Mock Interview Video
 
-[Watch my mock interview video](https://drive.google.com/uc?export=download&id=1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG)
+
+[Watch my mock interview video](https://drive.google.com/file/d/1p2yE_clcH6iv5I5YJgARDD_AU06OdoFG/view)
 ---
 ---
 
