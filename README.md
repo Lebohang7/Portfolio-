@@ -195,7 +195,7 @@ The sprint backlog is the work the team commits to in the current sprint. On the
 
 **Figure 9: Sprint work recorded in the logbook (In Progress and Completed)**
 
-![Logbook taskboard In Progress and Completed columns](images/logbook-sprint-backlog.jpg) 
+![Logbook taskboard In Progress and Completed columns](https://github.com/Lebohang7/Portfolio-/blob/99493edc6bcc36f6a681088a7726ce78d04856ac/logbook-sprint-backlog.jpg) 
 ### Reflection: Sprint Backlog
 
 **Situation**  
