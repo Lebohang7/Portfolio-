@@ -230,7 +230,7 @@ The logbook records daily stand-ups. Each entry answers three questions: what di
 
 ![Agile Logbook, page 2](images/pdf-logbook-page-2.jpg)
 
-![Agile Logbook, page 3](images/pdf-logbook-page-3.jpg)
+![Agile Logbook, page 3](https://github.com/Lebohang7/Portfolio-/blob/e9e642065ea6d86e0015db657d0c2e69209c537e/pdf-logbook-page-3.jpg)
 
 ### Reflection: Agile Logbook
 
