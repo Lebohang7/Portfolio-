@@ -105,7 +105,7 @@ ActiveEdge is a group project to build South Africa's leading sustainable perfor
 
 ![ActiveEdge Team Charter, page 2](https://github.com/Lebohang7/Portfolio-/blob/a210826f91b066ec80c17ce508e3bcef2305e971/pdf-charter-page-2.jpg)
 
-![ActiveEdge Team Charter, page 3](images/pdf-charter-page-3.jpg)
+![ActiveEdge Team Charter, page 3](https://github.com/Lebohang7/Portfolio-/blob/86a9978dc759fe0283405bd0552c55735d2577b9/pdf-charter-page-3.jpg)
 
 ### Reflection: Agile Team Charter
 
