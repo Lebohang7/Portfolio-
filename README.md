@@ -165,7 +165,7 @@ The product backlog is the prioritised list of everything the product still need
 
 **Figure 7: Product Backlog column in the logbook, with user stories and their sprints**
 
-<img src="images/logbook-product-backlog.jpg" alt="Logbook taskboard Product Backlog column listing user stories" width="320">
+<img src="https://github.com/Lebohang7/Portfolio-/blob/2811c13b384122df5719c37efda2c3b66c618c8b/logbook-product-backlog.jpg" alt="Logbook taskboard Product Backlog column listing user stories" width="320">
 
 ### Reflection: Product Backlog
 
