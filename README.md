@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Lebohang Mosimane
+#  Hi, I'm Lebohang Mosimane
 
-🎓 ICT Student at CPUT  
-💻 Aspiring UX Designer | Front-End Developer  
-🎨 Creative Developer  
+ICT Student at CPUT  
+Aspiring UX Designer | Front-End Developer  
+Creative Developer  
 
 📍 Cape Town, South Africa  
 📧 222464062@mycput.ac.za  
 🔗 [GitHub](https://github.com/Lebohang7) · [LinkedIn](https://linkedin.com/in/lebohang-mosimane-9a8128272)
 
-🌐 **Live website version of this portfolio:** [lebohang7.github.io/Portfolio-](https://lebohang7.github.io/Portfolio-/)
+ **Live website version of this portfolio:** [lebohang7.github.io/Portfolio-](https://lebohang7.github.io/Portfolio-/)
 
 ---
 
@@ -131,7 +131,7 @@ Each user story describes a piece of work from the user's or team's point of vie
 
 **Figure 4: Trello board with story cards and task checklists**
 
-![Trello board ActiveEdge PRP372S with Product Backlog, In progress and Completed lists](images/trello-board.jpg)
+![Trello board ActiveEdge PRP372S with Product Backlog, In progress and Completed lists](https://github.com/Lebohang7/Portfolio-/blob/78f35ee813a0f854a4b9b913126343a9899ccd27/trello-board.jpg)
 
 **Figure 5: User stories written in the Agile logbook taskboard**
 
