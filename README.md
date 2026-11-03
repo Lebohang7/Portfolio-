@@ -135,7 +135,7 @@ Each user story describes a piece of work from the user's or team's point of vie
 
 **Figure 5: User stories written in the Agile logbook taskboard**
 
-![Agile logbook taskboard with user stories grouped by sprint](images/logbook-taskboard.jpg)
+![Agile logbook taskboard with user stories grouped by sprint](https://github.com/Lebohang7/Portfolio-/blob/53b2951cfc37388cef336ece0e337f1c19357a4b/logbook-taskboard.jpg)
 
 ### Reflection: User Stories and Tasks
 
@@ -195,8 +195,7 @@ The sprint backlog is the work the team commits to in the current sprint. On the
 
 **Figure 9: Sprint work recorded in the logbook (In Progress and Completed)**
 
-![Logbook taskboard In Progress and Completed columns](images/logbook-sprint-backlog.jpg)
-
+![Logbook taskboard In Progress and Completed columns](images/logbook-sprint-backlog.jpg) 
 ### Reflection: Sprint Backlog
 
 **Situation**  
