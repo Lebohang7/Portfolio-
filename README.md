@@ -191,7 +191,7 @@ The sprint backlog is the work the team commits to in the current sprint. On the
 
 **Figure 8: Sprint work in Trello: 2 cards in progress, 12 completed**
 
-![Trello In progress list with 2 cards and Completed list with 12 cards](images/trello-sprint-backlog.jpg)
+![Trello In progress list with 2 cards and Completed list with 12 cards](https://github.com/Lebohang7/Portfolio-/blob/e9cb9c5d1045e63d69a0e833bacd076610ea81ae/trello-sprint-backlog.jpg)
 
 **Figure 9: Sprint work recorded in the logbook (In Progress and Completed)**
 
