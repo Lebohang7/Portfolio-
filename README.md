@@ -75,7 +75,7 @@ This portfolio is also published as a live website with GitHub Pages: [lebohang7
 
 ---
 
-# Agile Project: ActiveEdge (PRP372S)
+# Agile Project: ActiveEdge
 
 ActiveEdge is a group project to build South Africa's leading sustainable performance sportswear brand: eco-responsible activewear that is genuinely affordable (R250 to R650). Below is the Agile evidence from the project, each followed by my reflection.
 
