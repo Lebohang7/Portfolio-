@@ -226,7 +226,7 @@ The logbook records daily stand-ups. Each entry answers three questions: what di
 
 📄 [Open the full PDF](pdfs/Agile_Logbook.pdf)
 
-![Agile Logbook, page 1](images/pdf-logbook-page-1.jpg)
+![Agile Logbook, page 1](https://github.com/Lebohang7/Portfolio-/blob/c21f4f37d396c268a713b99494a36a9228187795/pdf-logbook-page-1.jpg)
 
 ![Agile Logbook, page 2](https://github.com/Lebohang7/Portfolio-/blob/07406ea42d5d9a5f9c8f782c1378efd049f8a59d/pdf-logbook-page-2.jpg)
 
