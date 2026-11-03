@@ -101,7 +101,7 @@ ActiveEdge is a group project to build South Africa's leading sustainable perfor
 
 📄 [Open the full PDF](pdfs/ActiveEdge_Team_Charter.pdf)
 
-![ActiveEdge Team Charter, page 1](images/pdf-charter-page-1.jpg)
+![ActiveEdge Team Charter, page 1](https://github.com/Lebohang7/Portfolio-/blob/756c78237958cd9584691fe27328c798ef8ae80d/pdf-charter-page-1.jpg)
 
 ![ActiveEdge Team Charter, page 2](images/pdf-charter-page-2.jpg)
 
