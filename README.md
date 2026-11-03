@@ -161,7 +161,7 @@ The product backlog is the prioritised list of everything the product still need
 
 **Figure 6: Trello Product Backlog list**
 
-<img src="images/trello-product-backlog.jpg" alt="Trello Product Backlog list with 63 cards" width="320">
+<img src="https://github.com/Lebohang7/Portfolio-/blob/cf98fc17da9190c66ca7b8155e344a625e04d2b0/trello-product-backlog.jpg" alt="Trello Product Backlog list with 63 cards" width="320">
 
 **Figure 7: Product Backlog column in the logbook, with user stories and their sprints**
 
