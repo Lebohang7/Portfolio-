@@ -91,7 +91,7 @@ ActiveEdge is a group project to build South Africa's leading sustainable perfor
 
 **Figure 2: Communication plan**
 
-![ActiveEdge Team Charter: communication plan and start of SMART goals](images/charter-communication-plan.jpg)
+![ActiveEdge Team Charter: communication plan and start of SMART goals](https://github.com/Lebohang7/Portfolio-/blob/cc8be6343643c16aedb9991d07b4612fc771a86b/charter-communication-plan.jpg)
 
 **Figure 3: SMART goals, success metrics, due dates and status**
 
