@@ -220,7 +220,7 @@ The logbook records daily stand-ups. Each entry answers three questions: what di
 
 **Figure 10: Daily stand-up entries, 3 to 5 August 2026**
 
-![Agile logbook daily stand-up entries for 3 to 5 August 2026](images/logbook-standups.jpg)
+![Agile logbook daily stand-up entries for 3 to 5 August 2026](https://github.com/Lebohang7/Portfolio-/blob/b858ac3d59af0328b80c5659b6c7950fdef25adc/logbook-standups.jpg)
 
 ### Full document: Agile Logbook (PDF)
 
