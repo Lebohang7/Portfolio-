@@ -71,7 +71,7 @@ My GitHub account hosts this repository. Every change is saved as a commit, whic
 This README is my CV coded in Markdown. Headings (`#`), bold text (`**`), bullet lists (`-`), dividers (`---`), links and images are all written as plain text symbols. Click the **Code** view of this file (the `<>` icon above the README, or the pencil icon) to see the Markdown source.
 
 ### Published on GitHub Pages
-This portfolio is also published as a live website with GitHub Pages: [lebohang7.github.io/Portfolio-2](https://lebohang7.github.io/Portfolio-2/)
+This portfolio is also published as a live website with GitHub Pages: [lebohang7.github.io/Portfolio-2](https://lebohang7.github.io/Portfolio-/)
 
 ---
 
