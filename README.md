@@ -87,7 +87,7 @@ ActiveEdge is a group project to build South Africa's leading sustainable perfor
 
 **Figure 1: Team purpose and vision, and team members and roles**
 
-![ActiveEdge Team Charter: team purpose, vision, members and roles](images/charter-purpose-roles.jpg)
+![ActiveEdge Team Charter: team purpose, vision, members and roles](https://github.com/Lebohang7/Portfolio-/blob/5adbfc1ab97495fa5d064e9047afb4f227e50b8d/charter-purpose-roles.jpg)
 
 **Figure 2: Communication plan**
 
